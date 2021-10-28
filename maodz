@@ -1,6 +1,5 @@
 {
-    "spider": "https://gitee.com/gangwu008/hstv/raw/master/jar/custom_spider.jar",
-    "sites": [
+      "sites": [
         {
             "key": "默认主页",
             "name": "默认主页",
